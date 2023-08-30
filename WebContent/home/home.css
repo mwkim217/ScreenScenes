@@ -1,0 +1,301 @@
+:root {
+    /**
+     * colors
+     */
+
+    --white: #fff;
+    --black: #000;
+    --vlet: #7937FF;
+
+}
+
+
+@font-face {
+    font-family: 'establishRetrosansOTF';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2112@1.0/establishRetrosansOTF.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NanumSquareNeo-Variable';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_11-01@1.0/NanumSquareNeo-Variable.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/**
+ * header
+ */
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50px;
+    padding: 25px;
+    background-color: #000;
+    display: flex;
+    justify-content: space-between;
+
+    align-items: center;
+    z-index: 100;
+}
+
+.navbar img {
+    position: relative;
+    width: 20%;
+    height: 20%;
+    left: 50px;
+
+}
+
+.navbar a {
+
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+
+    text-decoration: none;
+}
+
+.navbar-menu {
+    margin-left: 150px;
+}
+
+.navbar a span {
+    position: relative;
+    bottom: 7px;
+
+}
+
+.navbar a:hover span {
+    color: var(--vlet);
+}
+
+.social-icon {
+    position: absolute;
+    top: 50%;
+    left: 80%;
+
+
+}
+
+.social-icon a i {
+    color: #fff;
+    font-size: 24px;
+
+    cursor: pointer;
+    transform: .5s ease;
+    position: relative;
+}
+
+.social-icon a:hover i {
+    transform: scale(1.2);
+
+}
+
+
+.btn {
+    color: var(--white);
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+
+    gap: 10px;
+    padding: 5px 30px;
+    border: 3px solid var(--vlet);
+    background-color: #000;
+
+    border-radius: 50px;
+
+    position: absolute;
+    top: 40%;
+    left: 70%;
+}
+
+#startbtn {
+    width: 150px;
+    height: 50px;
+}
+
+#startbtn2 {
+
+    width: 150px;
+    height: 50px;
+    top: 70%;
+    left: 75%;
+
+}
+
+.btn-primary ::after {
+    background: var#000;
+}
+
+.btn-primary:is(:hover, :focus) {
+    background: var(--vlet);
+
+}
+
+.navbar-social-icon {
+    display: flex;
+    position: relative;
+    top: 40%;
+    left: 90%;
+}
+
+/**
+ * body
+ */
+
+body {
+    display: block;
+    margin: 0;
+    width: 100%;
+    background-color: #000;
+}
+
+.info {
+    background: #000;
+    background-size: cover;
+    min-height: 350px;
+    width: 100%;
+    height: 100vh;
+    max-height: 100%;
+    max-width: 100%;
+    display: flex;
+}
+
+.info-one {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)), url(../img/cinema-ga8eb7cac8_1920.jpg);
+
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+
+
+}
+
+/**
+왼쪽정렬
+*/
+.item {
+    position: relative;
+    right: -10%;
+    top: 50%;
+    width: 450px;
+    height: 450px;
+}
+
+.item img {
+    position: relative;
+    right: -30%;
+    width: 80%;
+
+}
+
+.item h1 {
+
+    position: relative;
+    top: -40%;
+    left: 60%;
+    font-size: 60px;
+}
+
+.item p {
+
+    position: relative;
+    top: -40%;
+    left: 0%;
+    font-size: 14px;
+}
+
+
+.text-item {
+    position: relative;
+    right: -10%;
+    color: #fff;
+}
+
+#onetext {
+
+    right: -30%;
+    width: 450px;
+    height: 300px;
+}
+
+#threetext {
+    color: #fff;
+    right: -30%;
+    width: 450px;
+    height: 300px;
+}
+
+
+/**
+오른쪽정렬
+*/
+.item2 {
+    left: 65%;
+    top: 50%;
+    position: relative;
+    width: 450px;
+    height: 450px;
+}
+
+
+.item2 h1 {
+    position: relative;
+    top: -40%;
+    left: 60%;
+    font-size: 60px;
+}
+
+.item2 p {
+
+    position: relative;
+    top: -40%;
+    left: 0%;
+    font-size: 14px;
+}
+
+
+.text-item2 {
+    position: relative;
+
+    color: #fff;
+}
+
+#twotext {
+    color: #fff;
+
+    width: 450px;
+    height: 300px;
+
+}
+
+
+.info-two {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url(../img/camera-ga0fd9f4b4_1920.jpg);
+    width: 95%;
+    height: 100vh;
+
+}
+
+.info-three {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)), url(../img/camera-g507f7261b_1920.jpg);
+    width: 100%;
+    height: 100vh;
+
+}
+
+.info-four {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url(../img/camera-g2d1ecaeb8_1920.jpg);
+    width: 95%;
+    height: 100vh;
+
+}

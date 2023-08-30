@@ -1,0 +1,594 @@
+jdbc:mysql://localhost:3306/newschema28?serverTimezone=Asia/Seoul
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/qs
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+01번째 article IN 16
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/x3
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+01번째 article IN 64
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/4tv
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+01번째 article IN 8
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/194
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+61번째 article IN 7
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/19t
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+61번째 article IN 14
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/rt
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+61번째 article IN 7
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/16w
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+81번째 article IN 9
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/1dp
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+81번째 article IN 17
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/bx
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+51번째 article IN 11
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/k3
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+21번째 article IN 19
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/jo
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+71번째 article IN 8
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/wu
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+71번째 article IN 8
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/31k
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+91번째 article IN 12
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/ro
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+01번째 article IN 19
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/9c
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+41번째 article IN 10
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/1b6
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+01번째 article IN 127
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/7g
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+11번째 article IN 15
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/43c
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+81번째 article IN 20
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/39i
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+31번째 article IN 10
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/ak
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+91번째 article IN 16
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/3fm
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+51번째 article IN 65
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/2rd
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+111번째 article IN 12
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/1jn
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+11번째 article IN 16
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/q
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+191번째 article IN 21
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/rd
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+81번째 article IN 31
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/45g
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+01번째 article IN 23
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/1pp
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+81번째 article IN 12
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/hz
+Element aElement = document.select("figure.small.poster.gallery a").first();
+	at gmap.MovieMapsScraper.activateInsertMovie(MovieMapsScraper.java:250)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/1db
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+201번째 article IN 23
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/6z
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+91번째 article IN 10
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/j7
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+51번째 article IN 13
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/4pi
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+61번째 article IN 7
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/1jr
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+01번째 article IN 107
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/2qh
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+01번째 article IN 33
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/g7
+Element aElement = document.select("figure.small.poster.gallery a").first();
+	at gmap.MovieMapsScraper.activateInsertMovie(MovieMapsScraper.java:250)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/4pg
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+81번째 article IN 9
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/1ar
+Element aElement = document.select("figure.small.poster.gallery a").first();
+	at gmap.MovieMapsScraper.activateInsertMovie(MovieMapsScraper.java:250)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/j5
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+51번째 article IN 40
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/3yg
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+61번째 article IN 9
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/16
+Element aElement = document.select("figure.small.poster.gallery a").first();
+	at gmap.MovieMapsScraper.activateInsertMovie(MovieMapsScraper.java:250)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/37d
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+61번째 article IN 13
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/3wp
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+121번째 article IN 13
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/d3
+Element aElement = document.select("figure.small.poster.gallery a").first();
+	at gmap.MovieMapsScraper.activateInsertMovie(MovieMapsScraper.java:250)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/d4
+Element aElement = document.select("figure.small.poster.gallery a").first();
+	at gmap.MovieMapsScraper.activateInsertMovie(MovieMapsScraper.java:250)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/cg
+Element aElement = document.select("figure.small.poster.gallery a").first();
+	at gmap.MovieMapsScraper.activateInsertMovie(MovieMapsScraper.java:250)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/23b
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+131번째 article IN 35
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/3uv
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+131번째 article IN 14
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/c4
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+121번째 article IN 42
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/1nk
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+71번째 article IN 8
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------
+
+
+---------------------------------------------------
+gmap.ElementNotFoundException: https://moviemaps.org/movies/c7
+Element tinyThumbnailInFigureTag = article.selectFirst("figure.tiny.thumbnail");
+61번째 article IN 7
+	at gmap.MovieMapsScraper.activateInsertLocation(MovieMapsScraper.java:341)
+	at gmap.MovieMapsScraper.run(MovieMapsScraper.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+---------------------------------------------------

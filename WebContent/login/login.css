@@ -1,0 +1,358 @@
+@font-face {
+    font-family: 'establishRetrosansOTF';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2112@1.0/establishRetrosansOTF.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NanumSquareNeo-Variable';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_11-01@1.0/NanumSquareNeo-Variable.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'CustomFont', NanumSquareNeo-Variable;
+
+    /* 웹폰트 사용 및 대체 폰트 설정 */
+    height: 100vh;
+    width: 100%;
+    background: white;
+    margin: 0;
+    padding: 0;
+}
+
+.background {
+    background: url(../img/loginback.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50px;
+    padding: 25px;
+    background-color: transparent;
+    display: flex;
+
+    align-items: center;
+    z-index: 100;
+}
+
+
+
+.navbar a {
+    position: relative;
+    font: 16px;
+    color: #fff;
+    margin-left: 60px;
+
+    text-decoration: none;
+}
+
+.navbar a::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background: #fff;
+    bottom: -5px;
+    border-radius: 5px;
+    transform: translateY(10px);
+}
+
+.navbar a:hover::after {
+    transform: translateY(0);
+    opacity: 1;
+}
+
+
+.container {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+    width: 75%;
+    height: 550px;
+    margin-top: 20px;
+    background-color: black;
+    opacity: 0.7;
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+
+.item {
+
+    font-family: 'CustomFont', establishRetrosansOTF;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 58%;
+    height: 100%;
+    box-sizing: border-box;
+    padding: 80px;
+    color: #fff;
+    background: transparent;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+
+
+.itme .logo {
+
+    color: #fff;
+    font-size: 30px;
+}
+
+/* #logoImg { */
+/*     width: 100% height: 100% */
+/* } */
+
+
+.text-item h3 {
+    font-size: 24px;
+    opacity: 0.5;
+}
+
+.text-item h2 {
+    font-size: 32px;
+    line-height: 1;
+}
+
+.text-item p {
+    font-family: 'CustomFont', NanumSquareNeo-Variable;
+    text-indent: 3%;
+    font-size: 14px;
+    margin: 20px 0;
+}
+
+.text-item2 h3 {
+    font-size: 24px;
+    opacity: 0.5;
+}
+
+.text-item2 h2 {
+    font-size: 32px;
+    line-height: 1;
+}
+
+.text-item2 p {
+    font-family: 'CustomFont', NanumSquareNeo-Variable;
+    text-indent: 3%;
+    font-size: 14px;
+    margin: 20px 0;
+}
+.social-icon a i {
+    color: #fff;
+    font-size: 24px;
+    margin-left: 10px;
+    cursor: pointer;
+    transform: .5s ease;
+}
+
+.social-icon a:hover i {
+    transform: scale(1.2);
+
+}
+
+.container .login-section {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: calc(100% - 58%);
+    height: 100%;
+    color: #fff;
+}
+
+.login-section .form-box {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+
+}
+
+.login-section .form-box.register {
+    transform: translateX(1000px);
+    transition: transform .6s ease;
+    transition-delay: 0s;
+}
+
+.login-section.active .form-box.register {
+    transform: translateX(0px);
+    transition-delay: .3s;
+}
+
+.login-section .form-box.login {
+    transform: translateX(0px);
+    transition: transform .6s ease;
+    transition-delay: 0s;
+}
+
+.login-section.active .form-box.login {
+    transform: translateX(1000px);
+    transition-delay: .3s;
+}
+
+/**
+화면구성
+*/
+
+
+
+.login-item-section .item.register {
+    transform: translateX(-1500px);
+    transition: transform .6s ease;
+    transition-delay: 0s;
+}
+
+.login-item-section.active .item.register {
+    transform: translateX(0px);
+    transition-delay: .3s;
+}
+
+.login-item-section .item.login {
+    transform: translateX(0px);
+    transition: transform .6s ease;
+    transition-delay: 0s;
+}
+
+.login-item-section.active .item.login {
+    transform: translateX(-1500px);
+    transition-delay: .3s;
+}
+
+
+
+.login-section .form-box h2 {
+    text-align: center;
+    font-size: 25px;
+}
+
+.form-box .input-box {
+    width: 340px;
+    height: 50px;
+    border-bottom: 2px solid #fff;
+    margin: 30px 0;
+    position: relative;
+}
+
+.input-box input {
+    color: #fff;
+    height: 100%;
+    background: transparent;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    padding-right: 28px;
+}
+
+.input-box label {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    font-size: 16px;
+    font-weight: 600px;
+    pointer-events: none;
+    transition: .5s ease;
+
+
+}
+
+.input-box .icon {
+    position: absolute;
+    top: 13px;
+    right: 0;
+    font-size: 19px;
+}
+
+.input-box input:focus~label,
+.input-box input:valid~label {
+    top: -10px;
+
+}
+
+
+.remember-password {
+    font-size: 14px;
+    font-weight: 500;
+    margin: -15px 0 15px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.remember-password label input {
+    accent-color: #fff;
+    margin-right: 3px;
+}
+
+.remember-password a {
+    color: #fff;
+    text-decoration: none;
+
+}
+ 
+.remember-password a:hover {
+    text-decoration: underline;
+}
+
+.btn {
+    background: #fff;
+    width: 100%;
+    height: 45px;
+    outline: none;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    background: #fff;
+    font-size: 16px;
+    color: black;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+
+}
+
+.create-accunt {
+    font-size: 14.5px;
+    text-align: center;
+    margin: 25px;
+}
+
+.create-accunt p a {
+    color: #fff;
+    font-weight: 600px;
+    text-decoration: none;
+}
+
+
+.create-accunt p a:hover {
+    text-decoration: underline;
+}
+
+.join-input-box {
+    height: 100%;
+
+    display: flex;
+    align-items: center;
+}
+
+.joinError {
+    font-size: 11px;
+    color: red;
+}
